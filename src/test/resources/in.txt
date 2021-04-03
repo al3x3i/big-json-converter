@@ -1,0 +1,23 @@
+Label	EN
+HomePage.mainMenu.menu_administration.title 	Administration
+HomePage.mainMenu.menu_administration.menu_administration_submenu_archives	Archives Management
+HomePage.mainMenu.menu_administration.menu_administration_submenu_profiles	Profiles
+HomePage.mainMenu.menu_capacityAndPerformance.title 	Capacity & Performance
+HomePage.mainMenu.menu_capacityAndPerformance.description 	Capacity Usage Monitoring, Microwave Performance Monitoring
+HomePage.mainMenu.menu_capacityAndPerformance.menu_capacityAndPerformance_submenu_capacityDashboard 	Capacity Dashboard
+HomePage.mainMenu.menu_capacityAndPerformance.menu_capacityAndPerformance_submenu_statistical_analysis	Statistical Analysis
+HomePage.mainMenu.menu_custom.title	Custom Reports
+HomePage.mainMenu.menu_custom.menu_licenses_management	License Management
+HomePage.mainMenu.menu_dataCollection.title 	Data Collection
+HomePage.mainMenu.menu_dataCollection.description 	Data Collection Management
+HomePage.mainMenu.menu_dataCollection.menu_dataCollection_submenu_dataIntegration 	Data Integration
+HomePage.mainMenu.menu_dataCollection.menu_dataCollection_submenu_diagnosis 	Diagnosis
+HomePage.mainMenu.menu_dataCollection.menu_dataCollection_submenu_job_scheduler 	Jobs Scheduler
+HomePage.mainMenu.menu_faultManagement.title 	Fault Management
+HomePage.mainMenu.menu_faultManagement.description 	Active Alarms Monitoring, Alarms History
+HomePage.mainMenu.menu_networkDiscovery.title 	Network Discovery
+HomePage.mainMenu.menu_networkDiscovery.description 	Service Discovery, Links Inventory, Hardware Inventory, Radio Inventory, etc
+HomePage.mainMenu.menu_networkDiscovery.menu_networkDiscovrey_submenu_hardwareInventory 	Hardware Inventory
+HomePage.mainMenu.menu_networkDiscovery.menu_networkDiscovrey_submenu_ip_configuration 	IP & MAC Monitor
+HomePage.message.alreadyOpen 	Report already opened
+HomePage.message.error 	Generic Error
